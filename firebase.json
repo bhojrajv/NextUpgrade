@@ -1,0 +1,6 @@
+{
+  "firestore": {
+    "rules": "task",
+    "indexes": "firestore.indexes.json"
+  }
+}
